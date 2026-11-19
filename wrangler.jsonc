@@ -1,6 +1,6 @@
 {
   "name": "flight1",
-  "main": "air2.js",
+  "main": "air3.js",
   "compatibility_date": "2025-01-01",
   "observability": { "enabled": true },
   "triggers": { "crons": ["* * * * *"] },
